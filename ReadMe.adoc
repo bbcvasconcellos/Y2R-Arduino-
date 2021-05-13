@@ -1,28 +1,23 @@
 :Author: bbasaglia
-:Email: {AuthorEmail}
+:Email: bbcvasconcellos@gmail.com
 :Date: 21/04/2021
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: Y2R Autonomous Ultrasonic robot
 
 Arduino project for an autonomous robot using ultrasonic sensor to detect and avoid collision with obstacles.
-== Step 1: Installation
-Please describe the steps to install this project.
 
-For example:
 
-1. Open this file
-2. Edit as you like
-3. Release to the World!
+== Step 1: Assemble the circuit
 
-== Step 2: Assemble the circuit
+Assemble the circuit according to the pins setup in the code, or customize the pin entries according to your own.
+*Note: Make sure to be using a H-Bridge in order to reverse the robot car
+**Recommendation: Use either 2 9V batteries one to power the H-Bridge and another for the Arduino board or make sure to use a battery in the 12V-35V range
 
-Assemble the circuit following the diagram layout.png attached to the sketch
+== Step 2: Load the code
 
-== Step 3: Load the code
-
-Upload the code contained in this sketch on to your board
+Upload the code contained in this sketch on to your Arduino board.
 
 === Folder structure
 
