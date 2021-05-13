@@ -6,8 +6,7 @@
 
 = Project: {Project}
 
-Describe your project
-
+Arduino project for an autonomous robot using ultrasonic sensor to detect and avoid collision with obstacles.
 == Step 1: Installation
 Please describe the steps to install this project.
 
