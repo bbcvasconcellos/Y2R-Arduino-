@@ -13,7 +13,7 @@ Arduino project for an autonomous robot using ultrasonic sensor to detect and av
 
 Assemble the circuit according to the pins setup in the code, or customize the pin entries according to your own.
 *Note: Make sure to be using a H-Bridge in order to reverse the robot car
-**Recommendation: Use either 2 9V batteries one to power the H-Bridge and another for the Arduino board or make sure to use a battery in the 12V-35V range
+**Recommendation: Use either 2 9V batteries one to power the H-Bridge and another for the Arduino board, or make sure to use a battery within the 12V-35V range
 
 == Step 2: Load the code
 
